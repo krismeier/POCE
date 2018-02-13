@@ -1,6 +1,6 @@
 # RedditScraper
 Automated Reddit Collection/Scraper Script Using PRAW  
-v1.0, 02/09/18
+v1.0, 02/13/18
 
 This script is distributed under the MIT licensing model https://opensource.org/licenses/MIT
 
